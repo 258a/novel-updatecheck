@@ -12,7 +12,7 @@ on:
 
     schedule:
 
-        - cron: '0/5 1,2,3,4,7,8,9,12,13,14 * * *'
+        - cron: '0/5 0,1,9,10 * * *'
 
 jobs:
 
@@ -50,12 +50,12 @@ jobs:
 
               run: |
 
-                git config --global user.name "wenmoux"
+                git config --global user.name "shuibi"
 
                 git config --global user.email "wenmoux@gmail.com.com" 
 
                 git add . 
 
-                git commit -m '有更新啦'  
+                git commit -m '我为国家修文物有更新啦'  
 
                 git push -u origin master
