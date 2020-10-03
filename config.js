@@ -1,6 +1,6 @@
 config={
   id:1014249435,
-  cid:576972704,
-  chaptername:"第一千零六十九章 根本没道理 （第一更）"
+  cid:576996102,
+  chaptername:"第一千零七十章 开始修复（更新完毕）"
 }
 module.exports=config
