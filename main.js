@@ -16,7 +16,7 @@ async function qidian(id) {
         console.log("暂无更新")
     } else {
         console.log("有更新啦")
-        let content = `c=${encodeURI("水笔追更的小说更新啦")} ⊙ ${b}
+        let content = `c=${encodeURI("我为国家修文物更新啦")} ⊙ ${b}
 ${t}
 http:${u}
 @at=669432318@`
